@@ -24,7 +24,7 @@ if page == "Home":
     Welcome to the Movie Recommender App!  
     This app helps you discover movies similar to the one you love, using **KNN and cosine similarity**.
     """)
-    st.image("images\cinema.jpg", use_container_width=True)
+    st.image("images/cinema.jpg", use_container_width=True)
 
 
 # Recommendation page
